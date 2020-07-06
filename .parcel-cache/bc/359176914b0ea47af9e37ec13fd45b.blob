@@ -1,0 +1,8 @@
+"use strict";
+
+var _Main = require("./src/Main.elm");
+
+//Elm.Main.init({
+//  node: document.querySelector('main')
+//})
+console.log('start');
